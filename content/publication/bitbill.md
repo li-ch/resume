@@ -14,7 +14,7 @@ url_code = ""
 authors = [
   "Li Chen", "Kai Chen"
 ]
-selected = true
+selected = false
 url_dataset = ""
 url_slides = ""
 image_preview = ""

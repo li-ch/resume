@@ -1,5 +1,5 @@
 +++
-selected = false
+selected = true
 url_pdf = "https://dl.acm.org/citation.cfm?id=2934880"
 url_slides = ""
 image = ""

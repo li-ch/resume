@@ -60,11 +60,9 @@
 
         <li class="nav-item"><a href="./#projects">Projects</a></li>
 
-        <li class="nav-item"><a href="./#teaching">Teaching</a></li>
+        <li class="nav-item"><a href="./#professional">Experience</a></li>
 
-        <li class="nav-item"><a href="./#posts">News</a></li>
-
-        <li class="nav-item"><a href="./#awards">Awards</a></li>
+        <li class="nav-item"><a href="./#contact">Awards</a></li>
 
       </ul>
 
@@ -308,24 +306,24 @@
 
 
       <h3 class="article-title" itemprop="name">
-        <a href="https://www.cse.ust.hk/~lchenad/publication/bitbill.html" itemprop="url">BitBill: Scalable, Robust, Verifiable Peer-to-Peer Billing for Cloud Computing</a>
+        <a href="https://www.cse.ust.hk/~lchenad/publication/coda.html" itemprop="url">CODA: Toward Automatically Identifying and Scheduling Coflows in the Dark</a>
       </h3>
 
       <div class="pub-abstract" itemprop="text">
 
-        We propose a novel public trust model to ensure natural and intuitive verification of billable events in the cloud. Leveraging a Bitcoin-like mechanism.
+        Leveraging application-level requirements using coflows has recently been shown to improve application-level communication performance in data-parallel clusters. However, existing coflow-based solutions rely on modifying applications to extract coflows, making them inapplicable to many practical scenarios. In this paper, we present CODA, a first attempt at automatically identifying and scheduling coflows without any application-level modifications. We employ an incremental clustering algorithm to perform fast, application-transparent coflow identification and complement it by proposing an error-tolerant coflow scheduler to mitigate occasional identification errors. Testbed experiments and large-scale simulations with production workloads show that CODA can identify coflows with over 90% accuracy, and its scheduler is robust to inaccuracies, enabling communication stages to complete 2.4x (5.1x) faster on average (95-th percentile) compared to per-flow mechanisms. Overall, CODA&#39;s performance is comparable to that of solutions requiring application modifications.
 
       </div>
 
       <div class="pub-authors" itemprop="author">
 
-        Li Chen, Kai Chen
+        Hong Zhang, Li Chen, Bairen Yi, Kai Chen, Mosharaf Chowdhury, Yanhui Geng
 
       </div>
 
       <div class="pub-publication">
 
-        USENIX HotCloud&rsquo;14
+        ACM SIGCOMM&rsquo;16
 
       </div>
 
@@ -334,20 +332,16 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.cse.ust.hk/~lchenad/publication/bitbill.html">
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.cse.ust.hk/~lchenad/publication/coda.html">
   Details
 </a>
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.usenix.org/system/files/conference/hotcloud14/hotcloud14-chen_li.pdf">
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=2934880">
   PDF
 </a>
 
 
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.usenix.org/node/183779">
-  Video
-</a>
 
 
 
@@ -630,6 +624,24 @@
 
 
         <ul class="fa-ul">
+
+          <li>
+            <span class="project-title">
+
+              <a href="http://data.qq.com/article?id=2972">
+
+            <i class="fa-li fa fa-files-o pub-icon" aria-hidden="true"></i>
+            Angel: Network-Accelerated Large-Scale Machine Learning
+            </a>
+            </span>
+
+            <p class="project-summary">Angel is an in-house large scale machine learning framework in Tencent. We cooperated with Technology Engineering Group (TEG), and developed a network accelerator. Via algorithm-specific flow scheduling, We achieved 70x reduction in job completion time compared to vanilla Apache Spark.</p>
+
+
+
+
+
+          </li>
 
           <li>
             <span class="project-title">

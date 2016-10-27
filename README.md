@@ -8,3 +8,6 @@ career profile
 - The awards section is changed from Contact widget.
 - The theme/academic folder has its own git repo.
 - We don't have any posts, so the news section is empty.
+- The navigation bar need fix
+	- #exp --> #professional
+	- #awards --> #contact
