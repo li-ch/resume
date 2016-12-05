@@ -9,7 +9,7 @@ url_pdf = "http://dl.acm.org/citation.cfm?id=2535788"
 url_video = ""
 image = ""
 url_dataset = ""
-selected = true
+selected = false
 abstract = "This paper presents MCP, a novel distributed and reactive transport protocol for data center networks (DCNs) to achieve minimal per-packet delay while providing guaranteed transmission rates to meet flow deadlines. To design MCP, we first formulate a stochastic packet delay minimization problem with constraints on deadline completion and network stability. By solving this problem, we derive an optimal congestion window update function which establishes the theoretical foundation for MCP. To be incrementally deployable with existing switch hardware, MCP leverages functionality available on commodity switch, i.e., ECN, to approximate the optimal window update function. Our preliminary results show that MCP holds great promise in terms of deadline miss rate and goodput."
 url_slides = ""
 math = false

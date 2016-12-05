@@ -128,7 +128,7 @@
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text"></p>
+    <p class="pub-abstract" itemprop="text">Explicit Congestion Notification (ECN) is crucial for production datacenters, but current queue-length based ECN/RED implementation does not work with generic packet schedulers, leading to either degraded network performance or violated scheduling policies. In this paper, we first dive into this issue and reveal that the invalidity of ECN/RED lies in the difficulty of measuring changing queue capacities under various schedulers and traffic dynamics. Then we present TCN, a simple yet effective ECN solution, by combining two successful ideas: the sojourn time from CoDel and the instantaneous marking from DCTCP. Using packet sojourn-time, as opposed to queue-length, as the congestion signal, TCN eliminates the need of measuring dynamic queue capacities, making it suitable for arbitrary schedulers with traffic dynamics. By performing stateless instantaneous ECN marking rather than complex stateful dropping, TCN is inexpensive to implement on commodity switching chips. Through extensive testbed experiments and large-scale simulations, we show TCN can strictly preserve scheduling policies while providing desirable network performance. For example, TCN significantly reduces the average and 99th percentile completion time for small flows by up to 82.8% and 95.3% compared to current practice in a testbed experiment with production workload.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
@@ -196,6 +196,9 @@
       aria-hidden="true">&larr;</span> Scheduling Mix-flows in Commodity Datacenters with Karuna</a></li>
     
 
+    
+    <li class="next"><a href="https://www.cse.ust.hk/~lchenad/publication/megasw.html">Enabling Wide-spread Communications on Optical Fabric with MegaSwitch <span
+      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>

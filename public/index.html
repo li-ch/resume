@@ -152,7 +152,7 @@
 
 <h1 id="bio">Bio</h1>
 
-<p>Chen Li (陈力) is currently a Ph.D. student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology. He is working on topics in data center networking under the supervision of Prof. Kai Chen.</p>
+<p>Chen Li (陈力) is currently a Ph.D. student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology. He is working on topics in data center networking under the supervision of Prof. Kai Chen. He is a Microsoft Research Asia PhD Fellow, and has published 10+ peer-reviewed papers in top journals and  conferences. His network acceleration subsystems and scheduling algorithms have seen deployment in Big Data systems in Huawei and Tencent.</p>
 
 <p>Prior to the current program, Li received his Master of Philosophy and Bachelor of Engineering (with First Class Honors and Minor in Mathematics) in Electronic and Computer Engineering from HKUST in 2013 and 2011, respectively. Full CV and references are available upon request.</p>
 
@@ -167,6 +167,8 @@
               <li>Datacenter Networking</li>
 
               <li>Parallel Computing</li>
+
+              <li>Machine Learning &amp; Deep Learning Systems</li>
 
               <li>Dataplane Programmability</li>
 
@@ -235,6 +237,65 @@
       <div class="col-xs-12 col-md-8">
 
 
+
+
+        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+
+
+    <div class="col-md-12">
+
+
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://www.cse.ust.hk/~lchenad/publication/megasw.html" itemprop="url">Enabling Wide-spread Communications on Optical Fabric with MegaSwitch</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+
+        Existing wired optical interconnects face a challenge of supporting wide-spread communications in production clusters. Initial proposals are constrained to only support hotspots between a small number of racks (e.g., 2 or 4) at a time, reconfigurable at milliseconds. Recent efforts on reducing optical circuit reconfiguration time from milliseconds to microseconds partially mitigate this problem by rapidly time-sharing optical circuits across more nodes, but are still limited by the total number of parallel circuits available simultaneously. In this paper, we seek an optical interconnect that can enable unconstrained communications within a computing cluster of thousands of servers. In particular, we present MegaSwitch, a multi-fiber ring optical fabric that exploits space division multiplexing across multiple fibers to deliver rearrangeably non-blocking communications to 30&#43; racks and 6000&#43; servers. We have implemented a 5-rack 40-server MegaSwitch prototype with real optical devices, and used testbed experiments as well as large-scale simulations to explore MegaSwitch’s architectural benefits and tradeoffs.
+
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+
+        Li Chen, Kai Chen, Joshua Zhu, Minlan Yu, George Porter, Chunming Qiao, Shan Zhong
+
+      </div>
+
+      <div class="pub-publication">
+
+        USENIX NSDI&rsquo;17
+
+      </div>
+
+      <div class="pub-links">
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.cse.ust.hk/~lchenad/publication/megasw.html">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-bai.pdf">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
 
 
         <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -355,65 +416,6 @@
 </div>
 
 
-        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
-
-
-
-    <div class="col-md-12">
-
-
-
-      <h3 class="article-title" itemprop="name">
-        <a href="https://www.cse.ust.hk/~lchenad/publication/mcp.html" itemprop="url">Towards minimal-delay deadline-driven data center TCP</a>
-      </h3>
-
-      <div class="pub-abstract" itemprop="text">
-
-        This paper presents MCP, a novel distributed and reactive transport protocol for data center networks to achieve minimal per-packet delay while providing guaranteed transmission rates to meet flow deadlines.
-
-      </div>
-
-      <div class="pub-authors" itemprop="author">
-
-        Li Chen, Shuihai Hu, Kai Chen, Haitao Wu, Danny HK Tsang
-
-      </div>
-
-      <div class="pub-publication">
-
-        ACM HotNets&rsquo;13
-
-      </div>
-
-      <div class="pub-links">
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.cse.ust.hk/~lchenad/publication/mcp.html">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://dl.acm.org/citation.cfm?id=2535788">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-      </div>
-
-    </div>
-  </div>
-</div>
-
-
 
       </div>
     </div>
@@ -453,6 +455,33 @@
 
 
         <ul class="fa-ul">
+
+          <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Enabling Wide-spread Communications on Optical Fabric with MegaSwitch</span>
+  <p>USENIX NSDI&rsquo;17</p>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.cse.ust.hk/~lchenad/publication/megasw.html">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-bai.pdf">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
 
           <li itemscope itemtype="http://schema.org/CreativeWork">
   <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
@@ -558,33 +587,6 @@
 </li>
 
 
-          <li itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">Fully programmable and scalable optical switching fabric for petabyte data center</span>
-  <p>OpEx</p>
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.cse.ust.hk/~lchenad/publication/megasw-opex.html">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://doi.org/10.1364/OE.23.003563">
-  PDF
-</a>
-
-
-
-
-
-
-
-</p>
-</li>
-
-
         </ul>
 
       </div>
@@ -649,7 +651,7 @@
               <a href="https://li-ch.github.io/chukonu">
 
             <i class="fa-li fa fa-files-o pub-icon" aria-hidden="true"></i>
-            Application-Aware Networking
+            Chukonu: Application-Aware Networking
             </a>
             </span>
 
@@ -693,7 +695,7 @@
 <li>Technology Analyst in Royal Bank of Scotland (Jun - Aug, 2010)</li>
 </ul>
 
-<p>I am a teaching assistant for the following courses at HKUST:</p>
+<p>I have been a teaching assistant for the following courses at HKUST:</p>
 
 <ul>
 <li>COMP 3511 - Operating Systems</li>

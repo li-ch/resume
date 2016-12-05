@@ -18,7 +18,7 @@ Internship experiences:
 - Software Engineer in Tencent (Jun 2015-Now)
 - Technology Analyst in Royal Bank of Scotland (Jun - Aug, 2010)
 
-I am a teaching assistant for the following courses at HKUST:
+I have been a teaching assistant for the following courses at HKUST:
 
 - COMP 3511 - Operating Systems
 - COMP 4621 - Computer Communication Networks I
