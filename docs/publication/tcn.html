@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.17" />
+  <meta name="generator" content="Hugo 0.35" />
   <meta name="author" content="Li Chen">
   <meta name="description" content="Ph.D Candidate">
 
@@ -60,9 +60,7 @@
         
         <li class="nav-item"><a href="../#projects">Projects</a></li>
         
-        <li class="nav-item"><a href="../#teaching">Teaching</a></li>
-        
-        <li class="nav-item"><a href="../#posts">News</a></li>
+        <li class="nav-item"><a href="../#exp">Experience</a></li>
         
         <li class="nav-item"><a href="../#awards">Awards</a></li>
         
@@ -130,7 +128,7 @@
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text"></p>
+    <p class="pub-abstract" itemprop="text">Explicit Congestion Notification (ECN) is crucial for production datacenters, but current queue-length based ECN/RED implementation does not work with generic packet schedulers, leading to either degraded network performance or violated scheduling policies. In this paper, we first dive into this issue and reveal that the invalidity of ECN/RED lies in the difficulty of measuring changing queue capacities under various schedulers and traffic dynamics. Then we present TCN, a simple yet effective ECN solution, by combining two successful ideas: the sojourn time from CoDel and the instantaneous marking from DCTCP. Using packet sojourn-time, as opposed to queue-length, as the congestion signal, TCN eliminates the need of measuring dynamic queue capacities, making it suitable for arbitrary schedulers with traffic dynamics. By performing stateless instantaneous ECN marking rather than complex stateful dropping, TCN is inexpensive to implement on commodity switching chips. Through extensive testbed experiments and large-scale simulations, we show TCN can strictly preserve scheduling policies while providing desirable network performance. For example, TCN significantly reduces the average and 99th percentile completion time for small flows by up to 82.8% and 95.3% compared to current practice in a testbed experiment with production workload.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
@@ -194,10 +192,13 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://www.cse.ust.hk/~lchenad/publication/karuna.html"><span
-      aria-hidden="true">&larr;</span> Scheduling Mix-flows in Commodity Datacenters with Karuna</a></li>
+    <li class="previous"><a href="https://www.cse.ust.hk/~lchenad/publication/flowsize.html"><span
+      aria-hidden="true">&larr;</span> Online flow size prediction for improved network routing</a></li>
     
 
+    
+    <li class="next"><a href="https://www.cse.ust.hk/~lchenad/publication/megasw.html">Enabling Wide-spread Communications on Optical Fabric with MegaSwitch <span
+      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
@@ -208,7 +209,7 @@
   <div class="container">
     <p class="powered-by">
 
-      &copy; 2016 Li Chen &middot; 
+      &copy; 2018 Li Chen &middot; 
 
       Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
       theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
