@@ -11,3 +11,5 @@ career profile
 - The navigation bar need fix
 	- #exp --> #professional
 	- #awards --> #contact
+- `chmod 704 public_html/*.*`
+

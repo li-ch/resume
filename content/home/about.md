@@ -7,7 +7,7 @@ draft = false
 widget = "about"
 
 # Order that this section will appear in.
-weight = 0
+weight = 1
 
 # List your academic interests.
 [interests]
@@ -25,7 +25,7 @@ weight = 0
 
 [[education.courses]]
   course = "Ph.D in Computer Science"
-  institution = "HKUST (2013 - Now)"
+  institution = "HKUST (2013 - 2018)"
 
 [[education.courses]]
   course = "M.Phil in Electronic & Computer Engineering"

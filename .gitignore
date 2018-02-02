@@ -1,4 +1,7 @@
-themes/academic/
+themes/
+working-backup/
+*.tgz
+
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a

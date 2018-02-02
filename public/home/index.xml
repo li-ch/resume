@@ -1,14 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home-rsses on Li Chen</title>
-    <link>https://www.cse.ust.hk/~lchenad/home.xml</link>
-    <description>Recent content in Home-rsses on Li Chen</description>
+    <title>Homes on Li Chen</title>
+    <link>https://www.cse.ust.hk/~lchenad/home.html</link>
+    <description>Recent content in Homes on Li Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Li Chen</copyright>
+    <copyright>&amp;copy; 2018 Li Chen</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.cse.ust.hk/~lchenad/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.cse.ust.hk/~lchenad/home/about.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cse.ust.hk/~lchenad/home/about.html</guid>
+      <description>Bio Chen Li (陈力) is currently a Ph.D. student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology. He is working on topics in data center networking under the supervision of Prof. Kai Chen. He is a Microsoft Research Asia PhD Fellow, and has published 10+ peer-reviewed papers in top journals and conferences. His network acceleration subsystems and scheduling algorithms have seen deployment in Big Data systems in Huawei and Tencent.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://www.cse.ust.hk/~lchenad/home/publications_selected.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cse.ust.hk/~lchenad/home/publications_selected.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://www.cse.ust.hk/~lchenad/home/publications.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cse.ust.hk/~lchenad/home/publications.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://www.cse.ust.hk/~lchenad/home/posts.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cse.ust.hk/~lchenad/home/posts.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.cse.ust.hk/~lchenad/home/projects.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cse.ust.hk/~lchenad/home/projects.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professional &amp; Teaching Experience</title>
+      <link>https://www.cse.ust.hk/~lchenad/home/teaching.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cse.ust.hk/~lchenad/home/teaching.html</guid>
+      <description>Internship:
+ Software Engineer in Tencent (Jun 2015 - Jul 2017) Technology Analyst in Royal Bank of Scotland (Jun - Aug 2010)  Certified Instructor at NVIDIA Deep Learning Institute (Oct 2017 - Now):
+ Deep Learning Demystified Best Practices for Starting a Deep Learning Project Applications of Deep Learning with Caffe, Theano and Torch Image Classification with DIGITS Object Detection with DIGITS Image Segmentation with TensorFlow Neural Network Deployment  Teaching Assistant at HKUST:</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://www.cse.ust.hk/~lchenad/home/contact.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cse.ust.hk/~lchenad/home/contact.html</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

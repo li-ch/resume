@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project-rsses on Li Chen</title>
-    <link>https://www.cse.ust.hk/~lchenad/project.xml</link>
-    <description>Recent content in Project-rsses on Li Chen</description>
+    <title>Projects on Li Chen</title>
+    <link>https://www.cse.ust.hk/~lchenad/project.html</link>
+    <description>Recent content in Projects on Li Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Li Chen</copyright>
-    <lastBuildDate>Wed, 26 Oct 2016 19:34:48 +0800</lastBuildDate>
-    <atom:link href="/project.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018 Li Chen</copyright>
+    <lastBuildDate>Thu, 24 Aug 2017 19:34:48 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.cse.ust.hk/~lchenad/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RDMA over Converged Ethernet (RoCE) For Large-scale Deep Learning with Amber</title>
+      <link>https://www.cse.ust.hk/~lchenad/project/amber.html</link>
+      <pubDate>Thu, 24 Aug 2017 19:34:48 +0800</pubDate>
+      
+      <guid>https://www.cse.ust.hk/~lchenad/project/amber.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Angel: Network-Accelerated Large-Scale Machine Learning</title>

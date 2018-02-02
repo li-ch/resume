@@ -1,9 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.cse.ust.hk/~lchenad/index.html</loc>
-    <lastmod>2017-03-29T14:13:05+08:00</lastmod>
+    <loc>https://www.cse.ust.hk/~lchenad/home/about.html</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cse.ust.hk/~lchenad/home/publications_selected.html</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cse.ust.hk/~lchenad/home/publications.html</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cse.ust.hk/~lchenad/home/posts.html</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cse.ust.hk/~lchenad/home/projects.html</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cse.ust.hk/~lchenad/home/teaching.html</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cse.ust.hk/~lchenad/home/contact.html</loc>
+    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cse.ust.hk/~lchenad/publication/powerman.html</loc>
+    <lastmod>2018-01-29T14:13:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cse.ust.hk/~lchenad/project/amber.html</loc>
+    <lastmod>2017-08-24T19:34:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cse.ust.hk/~lchenad/publication/pias-ton.html</loc>
+    <lastmod>2017-08-02T14:11:59+08:00</lastmod>
   </url>
   
   <url>
@@ -14,6 +60,11 @@
   <url>
     <loc>https://www.cse.ust.hk/~lchenad/publication/tcn.html</loc>
     <lastmod>2016-12-26T14:13:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.cse.ust.hk/~lchenad/publication/flowsize.html</loc>
+    <lastmod>2016-11-08T14:12:54+08:00</lastmod>
   </url>
   
   <url>
@@ -39,11 +90,6 @@
   <url>
     <loc>https://www.cse.ust.hk/~lchenad/publication/mqecn.html</loc>
     <lastmod>2016-04-26T14:13:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.cse.ust.hk/~lchenad/home/about.html</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -87,33 +133,37 @@
   </url>
   
   <url>
-    <loc>https://www.cse.ust.hk/~lchenad/home/publications_selected.html</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>https://www.cse.ust.hk/~lchenad/categories.html</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.cse.ust.hk/~lchenad/home/publications.html</loc>
+    <loc>https://www.cse.ust.hk/~lchenad/home.html</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.cse.ust.hk/~lchenad/home/posts.html</loc>
+    <loc>https://www.cse.ust.hk/~lchenad/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.cse.ust.hk/~lchenad/home/projects.html</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>https://www.cse.ust.hk/~lchenad/project.html</loc>
+    <lastmod>2017-08-24T19:34:48+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.cse.ust.hk/~lchenad/home/teaching.html</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>https://www.cse.ust.hk/~lchenad/publication.html</loc>
+    <lastmod>2018-01-29T14:13:05+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.cse.ust.hk/~lchenad/home/contact.html</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    <loc>https://www.cse.ust.hk/~lchenad/tags.html</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
