@@ -12,7 +12,7 @@ url_dataset = ""
 authors = [
   "Li Chen", "Kai Chen", "Joshua Zhu", "Minlan Yu", "George Porter", "Chunming Qiao", "Shan Zhong"
 ]
-publication = "14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 16)"
+publication = "14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17)"
 url_code = ""
 image = ""
 url_slides = ""
