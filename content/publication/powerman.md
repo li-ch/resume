@@ -10,7 +10,7 @@ date = "2018-01-29T14:13:05+08:00"
 title = "PowerMan: An Out-of-Band Management Network for Datacenters Using Power Line Communication"
 url_dataset = ""
 authors = [
-  "Li Chen", "Jiacheng Xia", "Kai Chen"
+  "Li Chen", "Jiacheng Xia", "Bairen Yi", "Kai Chen"
 ]
 publication = "15th USENIX Symposium on Networked Systems Design and Implementation (NSDI 18)"
 url_code = ""
