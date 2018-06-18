@@ -2,78 +2,113 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Li Chen</title>
-    <link>https://www.cse.ust.hk/~lchenad/home.html</link>
+    <link>https://li-ch.github.io/resume/home/</link>
     <description>Recent content in Homes on Li Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Li Chen</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://www.cse.ust.hk/~lchenad/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://li-ch.github.io/resume/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://www.cse.ust.hk/~lchenad/home/about.html</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://li-ch.github.io/resume/home/about/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://www.cse.ust.hk/~lchenad/home/about.html</guid>
-      <description>Bio Chen Li (陈力) is currently a Ph.D. student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology. He is working on topics in data center networking under the supervision of Prof. Kai Chen. He is a Microsoft Research Asia PhD Fellow, and has published 10+ peer-reviewed papers in top journals and conferences. His network acceleration subsystems and scheduling algorithms have seen deployment in Big Data systems in Huawei and Tencent.</description>
+      <guid>https://li-ch.github.io/resume/home/about/</guid>
+      <description>Biography Chen (陈) Li (力) is working on topics in the intersection of AI and networking. He joined Data Center Networking group at Tencent in June 2018. He is a Microsoft Research Asia PhD Fellow, and has published 10+ peer-reviewed papers in top journals and conferences. His network acceleration subsystems and scheduling algorithms have seen deployment in Big Data systems in Huawei and Tencent. Li received</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://www.cse.ust.hk/~lchenad/home/publications_selected.html</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://li-ch.github.io/resume/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://www.cse.ust.hk/~lchenad/home/publications_selected.html</guid>
+      <guid>https://li-ch.github.io/resume/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://www.cse.ust.hk/~lchenad/home/publications.html</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://li-ch.github.io/resume/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://www.cse.ust.hk/~lchenad/home/publications.html</guid>
+      <guid>https://li-ch.github.io/resume/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://li-ch.github.io/resume/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://li-ch.github.io/resume/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://www.cse.ust.hk/~lchenad/home/posts.html</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://li-ch.github.io/resume/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://www.cse.ust.hk/~lchenad/home/posts.html</guid>
+      <guid>https://li-ch.github.io/resume/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://www.cse.ust.hk/~lchenad/home/projects.html</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <link>https://li-ch.github.io/resume/home/projects/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://www.cse.ust.hk/~lchenad/home/projects.html</guid>
+      <guid>https://li-ch.github.io/resume/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Professional &amp; Teaching Experience</title>
-      <link>https://www.cse.ust.hk/~lchenad/home/teaching.html</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Professional Experience</title>
+      <link>https://li-ch.github.io/resume/home/experience/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://www.cse.ust.hk/~lchenad/home/teaching.html</guid>
-      <description>Internship:
- Software Engineer in Tencent (Jun 2015 - Jul 2017) Technology Analyst in Royal Bank of Scotland (Jun - Aug 2010)  Certified Instructor at NVIDIA Deep Learning Institute (Oct 2017 - Now):
- Deep Learning Demystified Best Practices for Starting a Deep Learning Project Applications of Deep Learning with Caffe, Theano and Torch Image Classification with DIGITS Object Detection with DIGITS Image Segmentation with TensorFlow Neural Network Deployment  Teaching Assistant at HKUST:</description>
+      <guid>https://li-ch.github.io/resume/home/experience/</guid>
+      <description>Senior Software Engineer at Tencent (Jun 2018 - Now)
+Software Engineering Intern at Tencent (Jun 2015 - Jul 2017)
+Certified Instructor at NVIDIA Deep Learning Institute (Oct 2017 - Now):
+ Deep Learning Demystified Best Practices for Starting a Deep Learning Project Applications of Deep Learning with Caffe, Theano and Torch Image Classification with DIGITS Object Detection with DIGITS Image Segmentation with TensorFlow Neural Network Deployment  Teaching Assistant at HKUST (2011 - 2018):</description>
     </item>
     
     <item>
-      <title>Awards</title>
-      <link>https://www.cse.ust.hk/~lchenad/home/contact.html</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Tags</title>
+      <link>https://li-ch.github.io/resume/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://www.cse.ust.hk/~lchenad/home/contact.html</guid>
+      <guid>https://li-ch.github.io/resume/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awards &amp; Honors</title>
+      <link>https://li-ch.github.io/resume/home/awards/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://li-ch.github.io/resume/home/awards/</guid>
+      <description> MSRA Ph.D Fellowship (2016)
+ HKUST Postgraduates Studentship (2011 - 2018)
+ HKUST Research Travel Grant (2013)
+ Meritorious Winner of Mathematical Competition of Modeling (2010)
+ The Commercial Radio 50th Anniversary Scholarships (2010)
+ HKUST Scholarship for Continuing UG Students (2007 - 2011)
+ &amp;hellip;
+  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://li-ch.github.io/resume/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://li-ch.github.io/resume/home/contact/</guid>
       <description></description>
     </item>
     

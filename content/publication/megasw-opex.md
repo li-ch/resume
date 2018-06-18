@@ -18,5 +18,14 @@ title = "Fully programmable and scalable optical switching fabric for petabyte d
 url_code = ""
 url_dataset = ""
 selected = false
-
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
 +++

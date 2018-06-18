@@ -15,8 +15,18 @@ authors = [
   "Li Chen", "Justinas Lingys", "Kai Chen", "Feng Liu",
 ]
 image = ""
-publication = "Proceedings of the 2018 conference on ACM SIGCOMM 2016 Conference"
+publication = "Proceedings of the conference on ACM SIGCOMM 2018 Conference"
 publication_short = "ACM SIGCOMM'18"
 url_pdf = ""
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["1"]
 
 +++

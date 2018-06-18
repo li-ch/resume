@@ -18,5 +18,14 @@ url_dataset = ""
 image = ""
 url_project = ""
 date = "2014-11-26T14:12:42+08:00"
-
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["1"]
 +++

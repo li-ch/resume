@@ -18,5 +18,14 @@ abstract_short = "This paper presents MCP, a novel distributed and reactive tran
 image_preview = ""
 publication = "Proceedings of the Twelfth ACM Workshop on Hot Topics in Networks"
 title = "Towards minimal-delay deadline-driven data center TCP"
-
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["1"]
 +++

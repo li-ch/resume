@@ -18,5 +18,14 @@ image = ""
 publication = "Proceedings of the 2016 conference on ACM SIGCOMM 2016 Conference"
 publication_short = "ACM SIGCOMM'16"
 url_pdf = "http://dl.acm.org/citation.cfm?id=2934888"
-
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["1"]
 +++

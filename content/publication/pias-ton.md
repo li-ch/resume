@@ -18,5 +18,14 @@ abstract_short = ""
 publication = "IEEE/ACM Transactions on Networking (TON), Volume 25 Issue 4, August 2017, Page 1954-1967"
 url_video = ""
 url_pdf = "https://dl.acm.org/citation.cfm?id=3148779"
-
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
 +++

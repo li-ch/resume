@@ -18,5 +18,14 @@ abstract_short = ""
 publication = "Wireless Communications and Mobile Computing Conference (IWCMC), 2013 9th International"
 url_video = ""
 url_pdf = "http://ieeexplore.ieee.org/document/6583644/"
-
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["1"]
 +++
