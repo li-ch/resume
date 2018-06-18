@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Li Chen</title>
-    <link>https://www.cse.ust.hk/~lchenad/project.html</link>
+    <link>https://li-ch.github.io/resume/project/</link>
     <description>Recent content in Projects on Li Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Li Chen</copyright>
+    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 24 Aug 2017 19:34:48 +0800</lastBuildDate>
     
-	<atom:link href="https://www.cse.ust.hk/~lchenad/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://li-ch.github.io/resume/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RDMA over Converged Ethernet (RoCE) For Large-scale Deep Learning with Amber</title>
-      <link>https://www.cse.ust.hk/~lchenad/project/amber.html</link>
+      <link>https://li-ch.github.io/resume/project/amber/</link>
       <pubDate>Thu, 24 Aug 2017 19:34:48 +0800</pubDate>
       
-      <guid>https://www.cse.ust.hk/~lchenad/project/amber.html</guid>
+      <guid>https://li-ch.github.io/resume/project/amber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angel: Network-Accelerated Large-Scale Machine Learning</title>
-      <link>https://www.cse.ust.hk/~lchenad/project/angel.html</link>
+      <link>https://li-ch.github.io/resume/project/angel/</link>
       <pubDate>Wed, 26 Oct 2016 19:34:48 +0800</pubDate>
       
-      <guid>https://www.cse.ust.hk/~lchenad/project/angel.html</guid>
+      <guid>https://li-ch.github.io/resume/project/angel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chukonu: Application-Aware Networking</title>
-      <link>https://www.cse.ust.hk/~lchenad/project/app-aware.html</link>
+      <link>https://li-ch.github.io/resume/project/app-aware/</link>
       <pubDate>Wed, 26 Oct 2016 17:18:51 +0800</pubDate>
       
-      <guid>https://www.cse.ust.hk/~lchenad/project/app-aware.html</guid>
+      <guid>https://li-ch.github.io/resume/project/app-aware/</guid>
       <description></description>
     </item>
     
