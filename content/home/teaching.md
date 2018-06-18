@@ -2,7 +2,7 @@
 # An example of using the custom widget to create your own home page section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
-date = "2016-04-20T00:00:00"
+date = "2018-06-18T00:00:00"
 draft = false
 
 title = "Professional & Teaching Experience"
@@ -13,10 +13,9 @@ weight = 50
 
 +++
 
-Internship:
+Senior Software Engineer in Tencent (Jun 2018 - Now)
 
-- Software Engineer in Tencent (Jun 2015 - Jul 2017)
-- Technology Analyst in Royal Bank of Scotland (Jun - Aug 2010)
+Software Engineering Intern in Tencent (Jun 2015 - Jul 2017)
 
 Certified Instructor at NVIDIA Deep Learning Institute (Oct 2017 - Now):
 
@@ -28,7 +27,7 @@ Certified Instructor at NVIDIA Deep Learning Institute (Oct 2017 - Now):
 - Image Segmentation with TensorFlow
 - Neural Network Deployment
 
-Teaching Assistant at HKUST:
+Teaching Assistant at HKUST (2011 - 2018):
 
 - COMP 3511 Operating Systems
 - COMP 4621 Computer Communication Networks I

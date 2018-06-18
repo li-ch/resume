@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2018-06-18T00:00:00"
 draft = false
 
 widget = "about"
@@ -39,6 +39,6 @@ weight = 1
 
 # Bio
 
-Chen Li (陈力) is currently a Ph.D. student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology. He is working on topics in data center networking under the supervision of Prof. Kai Chen. He is a Microsoft Research Asia PhD Fellow, and has published 10+ peer-reviewed papers in top journals and  conferences. His network acceleration subsystems and scheduling algorithms have seen deployment in Big Data systems in Huawei and Tencent.
+Chen Li (陈力) is working on topics in the intersection of AI and networking. He joined Data Center Networking group at Tencent in June 2018. He is a Microsoft Research Asia PhD Fellow, and has published 10+ peer-reviewed papers in top journals and conferences. His network acceleration subsystems and scheduling algorithms have seen deployment in Big Data systems in Huawei and Tencent.
 
-Prior to the current program, Li received his Master of Philosophy and Bachelor of Engineering (with First Class Honors and Minor in Mathematics) in Electronic and Computer Engineering from HKUST in 2013 and 2011, respectively. Full CV and references are available upon request.
+Li received his Ph.D. in CS, M.Phil. and B.Eng. (with First Class Honors and Minor in Mathematics) in ECE from HKUST in 2018, 2013, and 2011, respectively. Full CV and references are available upon request. 
