@@ -1,7 +1,9 @@
 # resume
 career profile
 
-# caveats
+## Publish to docs/ folder
+
+# caveats for version 1 of academic theme
 
 - The url in the profile pic need to change to `url(./...)`.
 - The link to all publications must be change to publication.html.
