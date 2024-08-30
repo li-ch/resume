@@ -3,19 +3,60 @@
 		<meta name="description" content="Li Chen">
 		<meta name="keywords" content="network, internet, academic, research">
 		<meta name="author" content="Li Chen">
-        <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
-            p {
-                width: 50%;
+            body {
+                /* font-family: 'Consolas', monospace; */
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
             }
+
+            .container {
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+                text-align: center;
+            }
+
+            p, ul {
+                margin: 0 auto;
+                padding: 10px;
+            }
+
+            p.centered {
+                text-align: center;
+            }
+
             ul {
-                width: 50%;
-                display: inline-block;
-                text-align:left;
+                list-style-type: none;
+                text-align: left;
             }
+
             li {
-                margin: 2px;
-                padding: 2px;
+                margin: 2px 0;
+                padding: 2px 0;
+            }
+
+            details {
+                margin-top: 10px;
+            }
+
+            /* table {
+                width: 100%;
+                margin: 20px 0;
+                border-collapse: collapse;
+            }
+
+            td {
+                border: 1px solid #ddd; 
+                padding: 8px;
+                text-align: center;
+            } */
+
+            footer {
+                font-size: 0.8em;
+                margin-top: 20px;
             }
         </style>
 		<title>Li Chen's Professional Profile</title>
@@ -30,11 +71,12 @@ gtag('js', new Date());
 gtag('config', 'G-6BD5F6RD19');
 </script>
 <body>
+    <div class="container">
 	<center>
 		<img src="static/img/li.png" width="200px" alt="Chinese Character of Li"><br>
 		<h2>Li CHEN - 陈 力</h2>
         <h4>Associate Researcher, Beijing Zhongguancun Laboratory</h4>
-        <p><a href="./recruit-chn.html">Looking for new Ph.D students.</a> Drop me an email and let's talk.</p>
+        <p class="centered"><a href="./recruit-chn.html">Looking for new Ph.D students.</a> Drop me an email and let's talk.</p>
         <!-- <p>Address: Building 1, Courtyard 2 , Cuihu Beihuan Road , Haidian District , 100095 Beijing, China</p> -->
             <br>
         <b><u>On the Web</u></b><br><br>
@@ -94,7 +136,6 @@ gtag('config', 'G-6BD5F6RD19');
                 <li><b>[SIGCOMM]</b> Gao, Kaihui, Li Chen, Dan Li, Vincent Liu, Xizheng Wang, Ran Zhang, and Lu Lu. "DONS: Fast and Affordable Discrete Event Network Simulation with Automatic Parallelization." In Proceedings of the ACM SIGCOMM 2023 Conference, pp. 167-181. 2023.</li>
                 <li><b>[SIGCOMM]</b> Chen, Huangxun, Yukai Miao, Li Chen, Haifeng Sun, Hong Xu, Libin Liu, Gong Zhang, and Wei Wang. "Software-defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim." In Proceedings of the ACM SIGCOMM 2022 Conference, pp. 281-297. 2022.</li>
                 <li><b>[SIGCOMM]</b> Yang, Qingqing, Xi Peng, Li Chen, Libin Liu, Jingze Zhang, Hong Xu, Baochun Li, and Gong Zhang. "DeepQueueNet: Towards Scalable and Generalized Network Performance Estimation with Packet-level Visibility." In Proceedings of the ACM SIGCOMM 2022 Conference, pp. 441-457. 2022.</li>
-                <!-- li><b>[SOSP]</b> Qi, Ji, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, Tianxiang Shen, Shixiong Zhao, Sen Wang, Li Chen et al. "BIDL: A High-Throughput, Low-Latency Permissioned Blockchain Framework for Datacenter Networks." In Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles, pp. 18-34. 2021.</li -->
                 <li><b>[NSDI]</b> Zhao, Yikai, Kaicheng Yang, Zirui Liu, Tong Yang, Li Chen, Shiyi Liu, Naiqian Zheng et al. "LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System Using Sketchlets." In 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI 21), pp. 991-1010. 2021.</li>
                 <li><b>[SIGCOMM]</b> Chen, Li, Justinas Lingys, Kai Chen, and Feng Liu. "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Traffic Optimization." In Proceedings of the 2018 conference of the ACM special interest group on data communication, pp. 191-205. 2018.</li>
                 ... View the full list <a href="./paper_list.html">here</a> <a href="./papers.bib">[bib]</a>, or refer to my <a href="https://scholar.google.co.uk/citations?user=2282PT8AAAAJ">Google Scholar</a> page, which I keep updated.
@@ -119,6 +160,11 @@ gtag('config', 'G-6BD5F6RD19');
 
         <b><u>Services</u></b><br><br>
         <table>
+            <tr>
+                <td style="text-align: center;">2025</td>
+                <td style="text-align: center;">SIGCOMM</td>
+                <td style="text-align: center;">TPC</td>
+            </tr>
             <tr>
                 <td style="text-align: center;">2024</td>
                 <td style="text-align: center;">SIGCOMM</td>
@@ -281,9 +327,12 @@ gtag('config', 'G-6BD5F6RD19');
             </tr>
         </table>
 
-            <br><br><br>
-		<font size="1"><i>Page last updated 2024-08-14</i></font><br><br>
-		<font size="1"><i>This site boasts 100/100 <a href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdrchen.li%2F&form_factor=desktop">PageSpeed</a> performance score.</i></font>
+        <br><br><br>
+        <footer>
+            <i>Page last updated 2024-08-30</i><br>
+            <i>This site boasts 100/100 <a href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdrchen.li%2F&form_factor=desktop">PageSpeed</a> performance score.</i>
+        </footer>
 	</center>
+    </div>
 </body>
 </html>
