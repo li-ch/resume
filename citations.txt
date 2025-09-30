@@ -145,7 +145,7 @@
   organization={ACM}
 }
 
-@inproceedings{bai2016enablingecn,
+@inproceedings{bai2016enabling,
   title={Enabling ECN over Generic Packet Scheduling},
   author={Bai, Wei and Chen, Kai and Chen, Li and Kim, Changhoon and Wu, Haitao},
   booktitle={Proceedings of the 12th International on Conference on emerging Networking EXperiments and Technologies},
@@ -165,7 +165,7 @@
 
 @misc{chen2019method,
   title={Method for transmitting data streams, and device},
-  author={Chen, Li and Chen, Kai and Bairen, YI and Zheng, Kai and Chakravartula, Sayee Kompalli and Zuo, Jing},
+  author={Chen, Li and Chen, Kai and Zheng, Kai and CHAKRAVARTULA, Sayee Kompalli and Zuo, Jing and others},
   year={2019},
   month=apr # "~11",
   note={US Patent App. 16/209,699}
@@ -291,12 +291,12 @@
 }
 
 @inproceedings{chen2021two,
-  title={A Two-Step Fitting Approach of Batch Markovian Arrival Processes for Teletraffic Data},
+  title={A two-step fitting approach of Batch Markovian arrival processes for teletraffic data},
   author={Chen, Gang and Xia, Li and Jiang, Zhaoyu and Peng, Xi and Chen, Li and Bai, Bo},
-  booktitle={Performance Evaluation Methodologies and Tools: 14th EAI International Conference, VALUETOOLS 2021, Virtual Event, October 30--31, 2021, Proceedings},
+  booktitle={EAI International Conference on Performance Evaluation Methodologies and Tools},
   pages={22--35},
   year={2021},
-  organization={Springer International Publishing}
+  organization={Springer International Publishing Cham}
 }
 
 @inproceedings{gao2020incorporating,
@@ -431,27 +431,12 @@
   year={2022}
 }
 
-@misc{huang2022source,
-  title={Source Address Validation Table Abstraction and Application},
-  author={Huang, Mingqing and Zhou, Tianran and Geng, Nan and Li, Dan and Chen, Li and Wu, Jianping},
-  journal={https://www.ietf.org/id/draft-huang-savnet-sav-table-00.html},
-  year={2022}
-}
-
-@misc{qin2022savnet,
-  title={SAVNET's Incentive Consideration for Defence Against Reflection Attacks},
-  author={Qin, Lancheng and Li, Dan and Wu, Jianping and Chen, Li and Gao, Fang},
-  journal={https://www.ietf.org/id/draft-qin-savnet-incentive-01.html},
-  year={2022}
-}
-
 @article{谢景昭2021klonet,
-  title={Klonet: 面向技术创新的网络模拟实验平台},
+  title={Klonet: 面向技术创新的网络模拟实验平台.},
   author={谢景昭 and 单炜 and 肖畅 and 马铁 and 陈力 and 虞红芳 and 孙罡},
-  journal={电信科学},
+  journal={Telecommunications Science},
   volume={37},
   number={10},
-  pages={66--75},
   year={2021}
 }
 
@@ -465,9 +450,12 @@
 }
 
 @article{chen2023synchronize,
-  title={Synchronize Only the Immature Parameters: Communication-Efficient Federated Learning By Freezing Parameters Adaptively},
+  title={Synchronize only the immature parameters: Communication-efficient federated learning by freezing parameters adaptively},
   author={Chen, Chen and Xu, Hong and Wang, Wei and Li, Baochun and Li, Bo and Chen, Li and Zhang, Gong},
   journal={IEEE Transactions on Parallel and Distributed Systems},
+  volume={35},
+  number={7},
+  pages={1155--1173},
   year={2023},
   publisher={IEEE}
 }
@@ -494,9 +482,12 @@
 }
 
 @article{lin2023fast,
-  title={Fast, Scalable and Robust Centralized Routing for Data Center Networks},
+  title={Fast, scalable and robust centralized routing for data center networks},
   author={Lin, Fusheng and Wang, Hongyu and Chen, Guo and Zhou, Guihua and Xu, Tingting and Wei, Dehui and Chen, Li and Lu, Yuanwei and Qu, Andrew and Shao, Hua and others},
   journal={IEEE/ACM Transactions on Networking},
+  volume={31},
+  number={6},
+  pages={2624--2639},
   year={2023},
   publisher={IEEE}
 }
@@ -535,8 +526,8 @@
 }
 
 @article{miao2023empirical,
-  title={An Empirical Study of NetOps Capability of Pre-Trained Large Language Models},
-  author={Miao, Yukai and Bai, Yu and Chen, Li and Li, Dan and Sun, Haifeng and Wang, Xizheng and Luo, Ziqiu and Sun, Dapeng and Xu, Xiuting},
+  title={An empirical study of netops capability of pre-trained large language models},
+  author={Miao, Yukai and Bai, Yu and Chen, Li and Li, Dan and Sun, Haifeng and Wang, Xizheng and Luo, Ziqiu and Ren, Yanyu and Sun, Dapeng and Xu, Xiuting and others},
   journal={arXiv preprint arXiv:2309.05557},
   year={2023}
 }
@@ -563,9 +554,12 @@
 }
 
 @article{tang2023cross,
-  title={Cross-graph Embedding with Trainable Proximity for Graph Alignment},
+  title={Cross-graph embedding with trainable proximity for graph alignment},
   author={Tang, Wei and Sun, Haifeng and Wang, Jingyu and Qi, Qi and Chen, Huangxun and Chen, Li},
   journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume={35},
+  number={12},
+  pages={12556--12570},
   year={2023},
   publisher={IEEE}
 }
@@ -574,6 +568,202 @@
   title={Slim and Fast: Low-Overhead Container Overlay Network With Fast Connection Setup},
   author={Lin, Fusheng and Zhang, Xin and Chen, Guo and Chen, Li and Li, Kenli and Jiang, Hongbo},
   journal={IEEE Transactions on Cloud Computing},
+  volume={12},
+  number={1},
+  pages={1--12},
   year={2023},
   publisher={IEEE}
+}
+
+@inproceedings{gan2022xtree,
+  title={Xtree: Traversal-based partitioning for extreme-scale graph processing on supercomputers},
+  author={Gan, Xinbiao and Zhang, Yiming and Zeng, Ruigeng and Liu, Jie and Wang, Ruibo and Li, Tiejun and Chen, Li and Lu, Kai},
+  booktitle={2022 IEEE 38th International Conference on Data Engineering (ICDE)},
+  pages={2046--2059},
+  year={2022},
+  organization={IEEE}
+}
+
+@inproceedings{wang2023mdp,
+  title={MDP: Model Decomposition and Parallelization of Vision Transformer for Distributed Edge Inference},
+  author={Wang, Weiyan and Zhang, Yiming and Jin, Yilun and Tian, Han and Chen, Li},
+  booktitle={2023 19th International Conference on Mobility, Sensing and Networking (MSN)},
+  pages={570--578},
+  year={2023},
+  organization={IEEE}
+}
+
+@inproceedings{ma2024klonet,
+  title={Klonet: an $\{$Easy-to-Use$\}$ and Scalable Platform for Computer Networks Education},
+  author={Ma, Tie and Luo, Long and Yu, Hongfang and Chen, Xi and Xie, Jingzhao and Ma, Chongxi and Xie, Yunhan and Sun, Gang and Wei, Tianxi and Chen, Li and others},
+  booktitle={21st USENIX Symposium on Networked Systems Design and Implementation (NSDI 24)},
+  pages={2025--2046},
+  year={2024}
+}
+
+@article{bai2024pistis,
+  title={Pistis-RAG: A Scalable Cascading Framework Towards Trustworthy Retrieval-Augmented Generation},
+  author={Bai, Yu and Miao, Yukai and Chen, Li and Li, Dan and Ren, Yanyu and Xie, Hongtao and Yang, Ce and Cai, Xuhui},
+  journal={arXiv e-prints},
+  pages={arXiv--2407},
+  year={2024}
+}
+
+@article{chen2021p4com,
+  title={P4com: In-network computation with programmable switches},
+  author={Chen, Ge and Zeng, Gaoxiong and Chen, Li},
+  journal={arXiv preprint arXiv:2107.13694},
+  year={2021}
+}
+
+@inproceedings{qin2024unisav,
+  title={UniSAV: A Unified Framework for Internet-Scale Source Address Validation},
+  author={Qin, Lancheng and Liu, Libin and Chen, Li and Li, Dan and Shi, Yuqian and Yang, Hongbing},
+  booktitle={Proceedings of the 2024 Applied Networking Research Workshop},
+  pages={81--87},
+  year={2024}
+}
+
+@inproceedings{gui2024redte,
+  title={RedTE: Mitigating subsecond traffic bursts with real-time and distributed traffic engineering},
+  author={Gui, Fei and Wang, Songtao and Li, Dan and Chen, Li and Gao, Kaihui and Min, Congcong and Wang, Yi},
+  booktitle={Proceedings of the ACM SIGCOMM 2024 Conference},
+  pages={71--85},
+  year={2024}
+}
+
+@inproceedings{wang2024prophetfuzz,
+  title={ProphetFuzz: Fully Automated Prediction and Fuzzing of High-Risk Option Combinations with Only Documentation via Large Language Model},
+  author={Wang, Dawei and Zhou, Geng and Chen, Li and Li, Dan and Miao, Yukai},
+  booktitle={Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security},
+  pages={735--749},
+  year={2024}
+}
+
+@article{xiong2024revisiting,
+  title={Revisiting the Time Cost Model of AllReduce},
+  author={Xiong, Dian and Chen, Li and Jiang, Youhe and Li, Dan and Wang, Shuai and Wang, Songtao},
+  journal={arXiv preprint arXiv:2409.04202},
+  year={2024}
+}
+
+@article{bai2024pistis,
+  title={Pistis-RAG: Enhancing Retrieval-Augmented Generation with Human Feedback},
+  author={Bai, Yu and Miao, Yukai and Chen, Li and Wang, Dawei and Li, Dan and Ren, Yanyu and Xie, Hongtao and Yang, Ce and Cai, Xuhui},
+  journal={arXiv preprint arXiv:2407.00072},
+  year={2024}
+}
+
+@inproceedings{zhao2024fat,
+  title={Fat-B Tree: Fast B tree Indexing with In-Network Memory},
+  author={Zhao, Yikai and Li, Yuanpeng and Xu, Zicang and Yang, Tong and Yang, Kaicheng and Chen, Li and Yao, Xin and Zhang, Gong},
+  booktitle={IPCCC},
+  year={2024}
+}
+
+@inproceedings{gui2025accelerating,
+  title={Accelerating Design Space Exploration for $\{$LLM$\}$ Training Systems with Multi-experiment Parallel Simulation},
+  author={Gui, Fei and Gao, Kaihui and Chen, Li and Li, Dan and Liu, Vincent and Zhang, Ran and Yang, Hongbing and Xiong, Dian},
+  booktitle={22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI 25)},
+  pages={473--488},
+  year={2025}
+}
+
+@inproceedings{xial2021two,
+  title={A Two-Step Fitting Approach of Batch},
+  author={Xial, Li and Jiang, Zhaoyu and Peng, Xi and Chen, Li and Bai, Bo},
+  booktitle={Performance Evaluation Methodologies and Tools: 14th EAI International Conference, VALUETOOLS 2021, Virtual Event, October 30--31, 2021, Proceedings},
+  volume={404},
+  pages={22},
+  year={2021},
+  organization={Springer Nature}
+}
+
+@inproceedings{wang2025digital,
+  title={The Digital Cybersecurity Expert: How Far Have We Come?},
+  author={Wang, Dawei and Zhou, Geng and Li, Xianglong and Bai, Yu and Chen, Li and Qin, Ting and Sun, Jian and Li, Dan},
+  booktitle={2025 IEEE Symposium on Security and Privacy (SP)},
+  pages={3273--3290},
+  year={2025},
+  organization={IEEE}
+}
+
+@inproceedings{liu2025cegs,
+  title={$\{$CEGS$\}$: Configuration Example Generalizing Synthesizer},
+  author={Liu, Jianmin and Chen, Li and Li, Dan and Miao, Yukai},
+  booktitle={22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI 25)},
+  pages={1327--1347},
+  year={2025}
+}
+
+@inproceedings{wang2025simai,
+  title={$\{$SimAI$\}$: Unifying Architecture Design and Performance Tuning for $\{$Large-Scale$\}$ Large Language Model Training with Scalability and Precision},
+  author={Wang, Xizheng and Li, Qingxu and Xu, Yichi and Lu, Gang and Li, Dan and Chen, Li and Zhou, Heyang and Zheng, Linkang and Zhang, Sen and Zhu, Yikai and others},
+  booktitle={22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI 25)},
+  pages={541--558},
+  year={2025}
+}
+
+@inproceedings{wang2025resolving,
+  title={Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model},
+  author={Wang, Xizheng and Liu, Libin and Chen, Li and Li, Dan and Miao, Yukai and Bai, Yu},
+  booktitle={22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI 25)},
+  pages={1541--1561},
+  year={2025}
+}
+
+@article{liu2025codeinverter,
+  title={The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs},
+  author={Liu, Peipei and Sun, Jian and Sun, Rongkang and Chen, Li and Yan, Zhaoteng and Zhang, Peizheng and Sun, Dapeng and Wang, Dawei and Zhang, Xiaoling and Li, Dan},
+  journal={arXiv preprint arXiv:2503.07215},
+  year={2025}
+}
+
+@inproceedings{lizyura2023real,
+  title={Real Waiting Time in Single-Server Resource Queue with Markovian Arrival Process},
+  author={Lizyura, Anatoly Olga and Moiseev, Alexander and Lapatin, Ivan and Paul, Svetlana and Pristupa, Pavel and Peng, Xi and Chen, Li and Bai, Bo},
+  booktitle={Information Technologies and Mathematical Modelling. Queueing Theory and Applications: 21st International Conference, ITMM 2022, Karshi, Uzbekistan, October 25--29, 2022, Revised Selected Papers},
+  pages={116},
+  year={2023},
+  organization={Springer Nature}
+}
+
+@inproceedings{wang2025exploiting,
+  title={Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services},
+  author={Wang, Weiyan and Jin, Yilun and Zhang, Yiming and Wei, Victor Junqiu and Tian, Han and Chen, Li and Xue, Jinbao and Tao, Yangyu and Wang, Di and Chen, Kai},
+  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2},
+  pages={3055--3066},
+  year={2025}
+}
+
+@inproceedings{zhai2025confsum,
+  title={ConfSum: Towards Automatic Summarization of Network-scale Operational Intents from Device Configurations},
+  author={Zhai, Rundi and Liu, Jianmin and Miao, Yukai and Chen, Li and Li, Dan and Cui, Baojiang and Zhang, Peng and Zhai, Ennan and Ding, Zishuo},
+  booktitle={Proceedings of the 2nd Workshop on Formal Methods Aided Network Operation},
+  pages={19--24},
+  year={2025}
+}
+
+@inproceedings{guan2025discovering,
+  title={Discovering Millions of New Nodes and Links in the Internet by Challenging the Uniformity Assumption in Multipath Detection},
+  author={Guan, Zhongxu and Wang, Shuai and Chen, Li and Yan, Zhaoteng and Lin, Jiaye and Li, Dan and Jiang, Yong and Wang, Yingxin and Liu, Ziqian},
+  booktitle={Proceedings of the ACM SIGCOMM 2025 Conference},
+  pages={1269--1271},
+  year={2025}
+}
+
+@inproceedings{yan2025atop,
+  title={From ATOP to ZCube: Automated Topology Optimization Pipeline and A Highly Cost-Effective Network Topology for Large Model Training},
+  author={Yan, Zihan and Li, Dan and Chen, Li and Xiong, Dian and Gao, Kaihui and Zhang, Yiwei and Yan, Rui and Zhang, Menglei and Zhang, Bochun and Jiang, Zhuo and others},
+  booktitle={Proceedings of the ACM SIGCOMM 2025 Conference},
+  pages={861--881},
+  year={2025}
+}
+
+@inproceedings{zhang2025your,
+  title={Your Shield is My Sword: A Persistent $\{$Denial-of-Service$\}$ Attack via the Reuse of Unvalidated Caches in $\{$DNSSEC$\}$ Validation},
+  author={Zhang, Shuhan and Wang, Shuai and Chen, Li and Li, Dan and Liu, Baojun},
+  booktitle={34th USENIX Security Symposium (USENIX Security 25)},
+  pages={3517--3535},
+  year={2025}
 }
